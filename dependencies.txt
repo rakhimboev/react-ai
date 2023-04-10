@@ -1,0 +1,2 @@
+npm install --save react-toastify
+npm install @alan-ai/alan-sdk-web --save

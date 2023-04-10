@@ -1,3 +1,18 @@
+ This is a basic version of an AI-powered e-commerce website that has been developed using ReactJS and Alan Studio. It is planned to add more advanced features to the website in the near future.
+
+For now, in order to test me application, try to use these sentences to order some functions to the AI:
+1. Assalamu alaykum
+2. Show me the product menu
+3. Order by name|price|category|ID
+4. Show me only men|women|jewelery
+5. Add product number 1-20
+6. Open my cart
+7. Close my cart
+
+Thank you for using my application!!!
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
